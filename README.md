@@ -26,7 +26,19 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 heroku/python
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Clinton-Abraham/UPLOADER-BOT/issues/14#issuecomment-1021253536)
+## How To Deploy Heroku
+
+<b><details><summary>Tap On Me For Deploy</summary>
+
+#
+
+  ㅤ ㅤ   ㅤ <a href="https://github.com/PREETCHAUHAN/UploaderBotX/fork"><img alt="Fork and deploy" src="https://img.shields.io/badge/-Fork%20And%20Deploy-black?style=for-the-badge&logo=github&logoColor=white"/></a> 
+
+#
+  ㅤ<a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FPREETCHAUHAN%2FUploaderBotX"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
+
+</b>
+</details>
 
 
 ## 🍃 How To Get Mongodb URI - [ Watch Video ](https://youtu.be/YIYSby2PcfU)
