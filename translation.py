@@ -3,7 +3,7 @@ class Translation(object):
     ERROR = "<b>ERROR :</b> {}"
 
     START_TEXT = """Hi {},
-I'm URL X Uploader!
+I'm URL Uploader!
 You can upload HTTP/HTTPS direct link, Using this bot!
 
 /help for more details!"""
@@ -13,8 +13,8 @@ URL | filename | username | password"""
     DOWNLOAD_START = "📥Downloading..."
     UPLOAD_START = "📤Uploading..."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Thanks for using @Uploader_X_bot\n\n<b>Join : @Space_X_Bots</b>"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds.\n\n@Uploader_X_Bot"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Thanks for using @UPDXBot\n\n<b>Join : @PreetModzNetworkz</b>"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds.\n\n@UPDXBot"
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     CUSTOM_CAPTION_UL_FILE = "{}"
