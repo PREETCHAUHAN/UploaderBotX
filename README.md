@@ -32,16 +32,16 @@ heroku/python
 
 #
 
-  ㅤ ㅤ   ㅤ <a href="https://github.com/PREETCHAUHAN/UploaderBotX/fork"><img alt="Fork and deploy" src="https://img.shields.io/badge/-Fork%20And%20Deploy-black?style=for-the-badge&logo=github&logoColor=white"/></a> 
+  ㅤ<a href="https://github.com/PREETCHAUHAN/UploaderBotX/fork"><img alt="Fork and deploy" src="https://img.shields.io/badge/-Fork%20And%20Deploy-black?style=for-the-badge&logo=github&logoColor=white"/></a> 
 
 #
-  ㅤ<a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FPREETCHAUHAN%2FUploaderBotX"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
+   <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FPREETCHAUHAN%2FUploaderBotX"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
 
 </b>
 </details>
 
 
-## 🍃 How To Get Mongodb URI - [ Watch Video ](https://youtu.be/YIYSby2PcfU)
+## 🍃 How To Get Mongodb URI - [ Watch Video ](https://youtu.be/VudXkbirhM8?feature=shared)
 
 
 ## BOT COMMANDS
@@ -56,19 +56,12 @@ heroku/python
 
 ## OTHER BOTS 🕊️
 
-* Rᴇɴᴀᴍᴇ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/rename_x_bot)
-
-* Tᴏʀʀᴇɴᴛ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/torrent_x_bot)
-
-* Uᴘʟᴏᴀᴅᴇʀ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/uploader_x_bot)
-
-* Sʜᴏʀᴛɴᴇʀ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/shortner_x_bot)
+* Our Bots List  -  [ HERE ](https://t.me/PreetModzNetworkz/66)
 
 ## Credits, and Thanks to
 
 * [@SpEcHlDe](https://t.me/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
 * [Dan Tès](https://t.me/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Yoily](https://t.me/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
-* [@DC4_WARRIOR](https://t.me/Space_X_bots) it's me
+* [☘️DJや๖ۣۜℜEET](https://t.me/djpreetXBot) it's me
 #### LICENSE
 - GPLv3
