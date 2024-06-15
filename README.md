@@ -26,7 +26,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 heroku/python
 ```
 
-## How To Deploy Heroku
+## Deploy On Heroku
 
 <b><details><summary>Tap On Me For Deploy</summary>
 
