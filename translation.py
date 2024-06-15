@@ -3,7 +3,7 @@ class Translation(object):
     ERROR = "<b>ERROR :</b> {}"
 
     START_TEXT = """Hi {},
-I'm URL Uploader!
+I'm URL Uploader !!!
 You can upload HTTP/HTTPS direct link, Using this bot!
 
 /help for more details!"""
